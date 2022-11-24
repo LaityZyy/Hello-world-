@@ -1,6 +1,6 @@
-#include<stdio.h>
-int main(void)
-{
-  printf("Hello,world!\n");
+#include<iostresm>
+using namespace std;
+int main(){
+  cout << "Hello World!" << endl;
   return 0;
 }
